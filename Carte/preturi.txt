@@ -1,0 +1,3 @@
+5 Ron
+10 Ron
+100 Euro
